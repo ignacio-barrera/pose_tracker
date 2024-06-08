@@ -1,0 +1,12 @@
+# Ignorar todos los archivos .mp4
+*.mp4
+
+# Ignorar todos los archivos .webm
+*.webm
+
+# Ignorar todos los archivos .avi
+*.
+
+# Ignorar todos los archivos .pt y .task (modelos)
+*.pt
+*.task
