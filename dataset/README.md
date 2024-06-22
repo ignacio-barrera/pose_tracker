@@ -1,0 +1,1 @@
+Para la instalación del dataset, favor dirigirse a [WholeBody Github](https://github.com/jin-s13/COCO-WholeBody)
