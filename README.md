@@ -7,3 +7,6 @@ Para la instalación de cada modelo, favor dirigirse a la documentación oficial
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [BlazePose](https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker)
+
+## Documentación:
+Informe [Hito 1](./Proyecto-VC-H1.pdf)
