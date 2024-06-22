@@ -1,1 +1,1 @@
-Para la instalación del dataset, favor dirigirse a [WholeBody Github](https://github.com/jin-s13/COCO-WholeBody)
+Para la instalación del dataset, favor dirigirse a [WholeBody Github](https://github.com/jin-s13/COCO-WholeBody) para obtener las anotaciones, para las imagenes, utilizamos [COCO 2017](https://cocodataset.org/#keypoints-2017)
