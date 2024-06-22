@@ -1,5 +1,5 @@
 # Proyecto IPD-441 Visión por computador - Detección de pasos desde modelos articulados
-Ignacio Barrera
+Ignacio Barrera  
 Francisca Soto
 ## Estructura:
 - Este proyecto presenta una carpeta para el trabajo de cada modelo utilizado.
