@@ -1,9 +1,8 @@
-# Proyecto IPD-441 Visión por computador
-## Detección de pasos desde modelos articulados
-### Estructura:
+# Proyecto IPD-441 Visión por computador - Detección de pasos desde modelos articulados
+## Estructura:
 - Este proyecto presenta una carpeta para el trabajo de cada modelo utilizado.
 - Para el dataset, leer [dataset README](./dataset/README.md).
-### Instalación:
+## Instalación:
 Para la instalación de cada modelo, favor dirigirse a la documentación oficial de cada uno.
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
