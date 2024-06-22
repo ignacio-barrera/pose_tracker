@@ -9,4 +9,5 @@ Para la instalación de cada modelo, favor dirigirse a la documentación oficial
 - [BlazePose](https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker)
 
 ## Documentación:
-Informe [Hito 1](./Proyecto-VC-H1.pdf)
+- Informe [Hito 1](./Proyecto-VC-H1.pdf)
+- Informe [Hito 2]()
