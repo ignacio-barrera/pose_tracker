@@ -6,10 +6,10 @@ Para la instalación del dataset, favor dirigirse a [WholeBody Github](https://g
 
 A continuación se detalla la estructura esperada:
 
-dataset/
-├── train2017/
-│ └── ... (COCO train2017 imgs)
-├── eval2017/
-│ └── ... (COCO train2017 imgs)
-├── coco_wholebody_train_v1.0.json
-├── coco_wholebody_val_v1.0.json
+dataset/  
+├── train2017/  
+│ └── ... (COCO train2017 imgs)  
+├── eval2017/  
+│ └── ... (COCO train2017 imgs)  
+├── coco_wholebody_train_v1.0.json  
+├── coco_wholebody_val_v1.0.json  
