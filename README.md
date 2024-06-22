@@ -3,7 +3,7 @@ Ignacio Barrera
 Francisca Soto
 ## Estructura:
 - Este proyecto presenta una carpeta para el trabajo de cada modelo utilizado.
-- Para el dataset, leer [dataset README](./dataset/README.md).
+- Para el dataset, leer [dataset README](./dataset/data.md).
 ## Instalación:
 Para la instalación de cada modelo, favor dirigirse a la documentación oficial de cada uno.
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
