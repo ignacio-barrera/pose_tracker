@@ -10,3 +10,6 @@
 # Ignorar todos los archivos .pt y .task (modelos)
 *.pt
 *.task
+
+#ignorar el output de blazepose
+blazepose/output_directory_frames
