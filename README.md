@@ -15,3 +15,4 @@ Para la instalación de cada modelo, favor dirigirse a la documentación oficial
 ## Documentación:
 - Informe [Hito 1](./Proyecto-VC-H1.pdf)
 - Informe [Hito 2](./Proyecto-VC-H2.pdf)
+- Informe [Hito 3](./Proyecto-VC-H3.pdf)
