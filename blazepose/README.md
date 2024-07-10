@@ -3,7 +3,7 @@
 El archivo final que incluye se basa en el suavizado entre frames se encuentra en **stepDetectionFinal.ipynb**, este archivo marca con verde la pisada y dibuja la estimación de pose del sujeto. El resultado de este código se guarda en la carpeta output:
 - output
     - frames (carpeta donde se guarda cada frame procesado)
-    - frames_info.json (información si el sujeto pisa o no)
+    - frames_info.json (información si el sujeto pisa o no y con que pie lo hace)
     - output4.mp4 (video resultante)
 
 El archivo **testBlazePose.ipynb** contiene los códigos probados que:
