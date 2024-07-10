@@ -9,7 +9,7 @@ Francisca Soto
 ## Instalación:
 Para la instalación de cada modelo, favor dirigirse a la documentación oficial de cada uno.
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
-- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose), para este algoritmo en particular, utilizamos la versión [WPD]([https://github.com/MVIG-SJTU/AlphaPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/0_index.md#windows-portable-demo).
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose), para este algoritmo en particular, utilizamos la versión [WPD](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/0_index.md#windows-portable-demo).
 - [BlazePose](https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker)
 
 ## Documentación:
