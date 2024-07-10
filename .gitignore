@@ -12,4 +12,4 @@
 *.task
 
 #ignorar el output de blazepose
-blazepose/output_directory_frames
+blazepose/output
