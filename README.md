@@ -5,6 +5,7 @@ Francisca Soto
 - Este proyecto presenta una carpeta para el trabajo de cada modelo utilizado.
 - Para el dataset, leer [dataset README](./dataset/data.md).
 - Los codigos fuentes de cada modelo y los output de los modelos no son mostrados en este repositorio debido al tamaño de estos archivos, por lo que solo dejamos a disposición archivos que sirven para el trabajo sobre estos.
+- El archivo [Algoritmo pisadas](./Algoritmo-pisadas.md) hace una breve explicación de las funciones utilizadas con el fin de detectar las pisadas del jugador.
 ## Instalación:
 Para la instalación de cada modelo, favor dirigirse a la documentación oficial de cada uno.
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
